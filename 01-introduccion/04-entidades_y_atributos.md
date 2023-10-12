@@ -1,4 +1,4 @@
-# Qué son entidades y atributos - Platzi
+# Qué son entidades y atributos 
 
 > En bases de datos, una entidad es la representación de un objeto o concepto del mundo real que se describe en una base de datos. Las entidades se describen en la estructura de la base de datos empleando un modelo de datos.
 
